@@ -1,0 +1,23 @@
+GNU nano 7.2                                                            package.json
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend for e-commerce app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
+
+
+
+
+
+
+
+
+
